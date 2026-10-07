@@ -1,0 +1,21 @@
+{
+  "status": "aprovado",
+  "cutoff": "2026-07-25",
+  "checks": {
+    "six_stores": true,
+    "all_stores_have_sellers": true,
+    "seller_count": true,
+    "dated_movements": true,
+    "date_range": true,
+    "transaction_reconciliation": true,
+    "sale_reconciliation": true,
+    "product_match": true,
+    "product_detail_reconciliation": true,
+    "no_future_in_closed_cut": true
+  },
+  "storeSale": 131633192.1,
+  "networkSale": 131633192.1,
+  "saleReconciliationRate": 100.0,
+  "storeTransactions": 182282,
+  "networkTransactions": 182282
+}

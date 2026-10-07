@@ -1,0 +1,692 @@
+{
+  "status": "aprovado",
+  "checks": 97,
+  "periods": [
+    "mtd/current",
+    "mtd/previous",
+    "mty/current",
+    "mty/previous"
+  ],
+  "tolerance": "R$ 0,05 em vendas; R$ 2,00 em base/lucro por arredondamento; 0,001 em quantidade",
+  "results": [
+    {
+      "check": "Categorias — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — sale — mtd/current",
+      "actual": 5133558.69,
+      "expected": 5133558.69,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — quantity — mtd/current",
+      "actual": 188890.2,
+      "expected": 188890.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — basePresent — mtd/current",
+      "actual": 4985938.0,
+      "expected": 4985938.0,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — profitPresent — mtd/current",
+      "actual": -194886.54,
+      "expected": -194886.55,
+      "difference": 0.01,
+      "ok": true
+    },
+    {
+      "check": "Marcas — profitPresent — mtd/current",
+      "actual": -194886.27,
+      "expected": -194886.55,
+      "difference": 0.28,
+      "ok": true
+    },
+    {
+      "check": "Produtos — profitPresent — mtd/current",
+      "actual": -194886.72,
+      "expected": -194886.55,
+      "difference": -0.17,
+      "ok": true
+    },
+    {
+      "check": "Lojas — profitPresent — mtd/current",
+      "actual": -194886.56,
+      "expected": -194886.55,
+      "difference": -0.01,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — profitPresent — mtd/current",
+      "actual": -194886.57,
+      "expected": -194886.55,
+      "difference": -0.02,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — profitPresent — mtd/current",
+      "actual": -194886.39,
+      "expected": -194886.55,
+      "difference": 0.16,
+      "ok": true
+    },
+    {
+      "check": "Categorias — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — sale — mtd/previous",
+      "actual": 6066000.52,
+      "expected": 6066000.52,
+      "difference": -0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — quantity — mtd/previous",
+      "actual": 269322.24,
+      "expected": 269322.24,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — basePresent — mtd/previous",
+      "actual": 5865710.9,
+      "expected": 5865710.9,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — profitPresent — mtd/previous",
+      "actual": -226479.22,
+      "expected": -226479.2,
+      "difference": -0.02,
+      "ok": true
+    },
+    {
+      "check": "Marcas — profitPresent — mtd/previous",
+      "actual": -226479.22,
+      "expected": -226479.2,
+      "difference": -0.02,
+      "ok": true
+    },
+    {
+      "check": "Produtos — profitPresent — mtd/previous",
+      "actual": -226479.1,
+      "expected": -226479.2,
+      "difference": 0.1,
+      "ok": true
+    },
+    {
+      "check": "Lojas — profitPresent — mtd/previous",
+      "actual": -226479.2,
+      "expected": -226479.2,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — profitPresent — mtd/previous",
+      "actual": -226479.25,
+      "expected": -226479.2,
+      "difference": -0.05,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — profitPresent — mtd/previous",
+      "actual": -226479.35,
+      "expected": -226479.2,
+      "difference": -0.15,
+      "ok": true
+    },
+    {
+      "check": "Categorias — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — sale — mty/current",
+      "actual": 42515568.98,
+      "expected": 42515568.98,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — quantity — mty/current",
+      "actual": 1498555.95,
+      "expected": 1498555.95,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — basePresent — mty/current",
+      "actual": 41234813.8,
+      "expected": 41234813.8,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — profitPresent — mty/current",
+      "actual": -1355240.63,
+      "expected": -1355240.47,
+      "difference": -0.16,
+      "ok": true
+    },
+    {
+      "check": "Marcas — profitPresent — mty/current",
+      "actual": -1355239.93,
+      "expected": -1355240.47,
+      "difference": 0.54,
+      "ok": true
+    },
+    {
+      "check": "Produtos — profitPresent — mty/current",
+      "actual": -1355240.05,
+      "expected": -1355240.47,
+      "difference": 0.42,
+      "ok": true
+    },
+    {
+      "check": "Lojas — profitPresent — mty/current",
+      "actual": -1355240.38,
+      "expected": -1355240.47,
+      "difference": 0.09,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — profitPresent — mty/current",
+      "actual": -1355240.41,
+      "expected": -1355240.47,
+      "difference": 0.06,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — profitPresent — mty/current",
+      "actual": -1355240.21,
+      "expected": -1355240.47,
+      "difference": 0.26,
+      "ok": true
+    },
+    {
+      "check": "Categorias — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — sale — mty/previous",
+      "actual": 49829298.49,
+      "expected": 49829298.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — quantity — mty/previous",
+      "actual": 1697220.05,
+      "expected": 1697220.05,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Lojas — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — basePresent — mty/previous",
+      "actual": 48012988.49,
+      "expected": 48012988.49,
+      "difference": 0.0,
+      "ok": true
+    },
+    {
+      "check": "Categorias — profitPresent — mty/previous",
+      "actual": -1014941.23,
+      "expected": -1014941.35,
+      "difference": 0.12,
+      "ok": true
+    },
+    {
+      "check": "Marcas — profitPresent — mty/previous",
+      "actual": -1014941.52,
+      "expected": -1014941.35,
+      "difference": -0.17,
+      "ok": true
+    },
+    {
+      "check": "Produtos — profitPresent — mty/previous",
+      "actual": -1014941.62,
+      "expected": -1014941.35,
+      "difference": -0.27,
+      "ok": true
+    },
+    {
+      "check": "Lojas — profitPresent — mty/previous",
+      "actual": -1014941.41,
+      "expected": -1014941.35,
+      "difference": -0.06,
+      "ok": true
+    },
+    {
+      "check": "Marcas por loja — profitPresent — mty/previous",
+      "actual": -1014941.41,
+      "expected": -1014941.35,
+      "difference": -0.06,
+      "ok": true
+    },
+    {
+      "check": "Produtos por loja — profitPresent — mty/previous",
+      "actual": -1014941.82,
+      "expected": -1014941.35,
+      "difference": -0.47,
+      "ok": true
+    },
+    {
+      "check": "Contagem de produtos",
+      "actual": 8671,
+      "expected": 8671,
+      "difference": 0,
+      "ok": true
+    }
+  ]
+}

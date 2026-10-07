@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "name": "brands.json.gz",
+      "bytes": 19880103,
+      "parts": 29,
+      "sha256": "4e840810f6955217a853e0f65f235c389e4dd32fc8dacbcbe5ce320485d5e569"
+    },
+    {
+      "name": "dashboard.json.gz",
+      "bytes": 6606752,
+      "parts": 10,
+      "sha256": "0f9719192d436e1d9fdc21acb8c8e12ff5a848b09ba6b7050fd5048575dc8d9b"
+    },
+    {
+      "name": "products.json.gz",
+      "bytes": 3741144,
+      "parts": 6,
+      "sha256": "e741af4c755aec6a0d130939584fe7a877f6b896eca1045fcdb2eaa5c3186330"
+    },
+    {
+      "name": "sellers.json.gz",
+      "bytes": 659361,
+      "parts": 1,
+      "sha256": "77d38855c357c9c45c17ec6edbf8044d4f0f8afeefc9ecb07c2e2bef7e111e14"
+    }
+  ]
+}
